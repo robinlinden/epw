@@ -1,7 +1,6 @@
 package ltd.evilcorp.epw
 
 import org.junit.Test
-
 import org.junit.Assert.*
 
 /**
